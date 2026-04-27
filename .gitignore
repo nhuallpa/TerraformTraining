@@ -1,5 +1,6 @@
 # Ignore local .terraform directories in any subdirectory
 **/.terraform/
+**/.terraform.lock.hcl
 
 # Ignore all .tfstate and backup files everywhere
 *.tfstate
